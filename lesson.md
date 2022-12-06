@@ -1,3 +1,2 @@
-hello
+# Работа с GIT
 
-start
