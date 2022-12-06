@@ -14,3 +14,13 @@
 git config --global user.name "Ваше имя на английском языке"
 git config --global user.email "Ваша почта"
 ```
+
+
+ДЗ допиши инструкцию
+4. Инициализация репозитория
+5. Запись изменений в репозиторий status add commit diff
+6. Просмотр истории сохранений log
+7. Перемещение между сохранениями checkout + хешкод и checkout master 
+
+Описание языка markdown
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
