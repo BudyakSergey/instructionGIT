@@ -56,6 +56,11 @@ git config --global user.email "Ваша почта"
 
 ## 9. Создание веток в Git
 
+Ветка Git - это простой перемещаемы указатель на одно из сохранений, обычно последний в цепочке коммитов.
+По умолчанию имя основной ветки в Git - **master**.
+
+
+
 Описание языка markdown
 
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
