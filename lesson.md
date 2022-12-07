@@ -56,6 +56,13 @@ git config --global user.email "Ваша почта"
 
 ## 9. Создание веток в Git
 
+Создать ветку можно командой:
+```
+git branch <имя новой ветки>
+```
+В результате создается новый указатель на текущий коммит.
+
+
 Описание языка markdown
 
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
