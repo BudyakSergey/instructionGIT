@@ -97,3 +97,5 @@ git merge <название выбранной ветки>
 Описание языка markdown
 
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+
+Без внесения любой информации, сохранения не происходит.
