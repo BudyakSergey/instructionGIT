@@ -117,5 +117,7 @@ $ git commit -am "добавили текст в строке 105 для про�
  1 file changed, 1 insertion(+), 1 deletion(-)
 ```
 
+Итоговое сохранение
+
 Описание языка markdown
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
