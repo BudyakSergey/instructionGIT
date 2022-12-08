@@ -110,5 +110,12 @@ git branch -d <NameBranch>
 
 тестовый текст перед удалением ветки без внесения инфомации из нее.
 
+```
+Запустил git log --graph --oneline и не вижу информацию и предыдущем сохранении.
+$ git commit -am "добавили текст в строке 105 для промежуточнго сохранения перед удалением с параметром -D"
+[branch_11_1 b2f4c22] добавили текст в строке 105 для промежуточнго сохранения перед удалением с параметром -D
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+```
+
 Описание языка markdown
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
