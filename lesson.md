@@ -108,5 +108,7 @@ git branch -d <NameBranch>
 
 Без внесения любой информации, сохранения не происходит.
 
+тестовый текст перед удалением ветки без внесения инфомации из нее.
+
 Описание языка markdown
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
